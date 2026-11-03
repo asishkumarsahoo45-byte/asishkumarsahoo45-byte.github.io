@@ -1,0 +1,10 @@
+GOOGLE SEARCH SETUP
+
+1. Publish this site on GitHub Pages.
+2. Replace YOUR-USERNAME in sitemap.xml with your actual GitHub username.
+3. Replace the commented Sitemap URL in robots.txt with the same URL.
+4. Open Google Search Console and verify ownership of your site.
+5. Submit https://YOUR-USERNAME.github.io/sitemap.xml in Search Console.
+6. Use URL Inspection to request indexing of the homepage.
+
+IMPORTANT: Google does not guarantee immediate indexing or a top ranking. A new website can take time to be discovered and indexed.
